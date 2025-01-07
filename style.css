@@ -1,0 +1,31 @@
+.container p{
+    background-color: aqua;
+}
+.section > .content > p{
+    background-color: blueviolet;
+}
+.card > .card-body > p{
+    border: 3px solid green;
+}
+.navbar > ul > li{
+    background-color: blue;
+}
+.header > h1{
+    background-color: aqua;
+}
+.footer > span{
+    background-color: aquamarine;
+}
+.main-content > .content > p{
+    border: 3px solid black;
+}
+.nav ul .A1{
+    margin-right: 15px;
+    border: 2px solid yellowgreen;
+} 
+.gallery > .photo{
+    background-color: yellow;
+}
+.container1 > .footer1 > span{
+    border: 2px solid green;
+    border-radius: 5px;
